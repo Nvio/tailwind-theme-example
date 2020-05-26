@@ -1,0 +1,7 @@
+{
+  "name": "@nvio/tailwind-theme-example",
+  "version": "0.0.1",
+  "description": "A example of theme as a package for Tailwind Package Manager",
+  "main": "index.js",
+  "license": "MIT"
+}
